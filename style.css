@@ -1,0 +1,13 @@
+.imagem{width: 100%;}
+
+
+.principal{background-color: gray;
+text-align: center;}
+
+.destaque{color: red;}
+
+.lista{vertical-align: top;
+display: inline-block;
+width: 20%;}
+
+.beneficio{text-align: center;}
